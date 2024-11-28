@@ -10,10 +10,10 @@ A budget tracking program written in Python
 ## Info
 
 ```
-python budget_tracker.py set-budget 500 (Set total budget)
-python budget_tracker.py add-expense BLAHAJ 20 (Add you
-python budget_tracker.py summarise (Show the data in the terminal)
-python budget_tracker.py visualise (Generate a pie chart)
-python budget_tracker.py export budget_backup.json (Export data)
-python budget_tracker.py import budget_backup.json (Import data)
+python budget.py set-budget 500 (Set total budget)
+python budget.py add-expense BLAHAJ 20 (Add you
+python budget.py summarise (Show the data in the terminal)
+python budget.py visualise (Generate a pie chart)
+python budget.py export budget_backup.json (Export data)
+python budget.py import budget_backup.json (Import data)
 ```
