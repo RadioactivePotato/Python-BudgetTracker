@@ -17,6 +17,11 @@ python budget.py
 
 [Demo](https://www.youtube.com/watch?v=7aVOdd9Dlb4)
 
+### Visualised Chart
+
+![chart](https://github.com/user-attachments/assets/ad145544-00c7-4f7d-8411-480b8049d7cb)
+
+
 ## Info
 
 ```
