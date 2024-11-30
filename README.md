@@ -15,6 +15,8 @@ pip install matplotlib
 python budget.py
 ```
 
+[Demo](https://www.youtube.com/watch?v=7aVOdd9Dlb4)
+
 ## Info
 
 ```
