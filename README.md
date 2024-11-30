@@ -7,6 +7,14 @@ A budget tracking program written in Python
 - **Pie chart visualisation**
 - **Data import & export**
 
+## Setup
+```
+git clone https://github.com/RadioactivePotato/Python-BudgetTracker
+cd Python-BudgetTracker
+pip install matplotlib
+python budget.py
+```
+
 ## Info
 
 ```
