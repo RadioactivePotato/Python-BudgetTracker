@@ -1,5 +1,5 @@
 # Python-BudgetTracker
-A budget tracking program written in Python
+A budget tracking program written in Python with visualisation
 
 ## Features
 - **Set budget**
@@ -26,7 +26,7 @@ python budget.py
 
 ```
 python budget.py set-budget 500 (Set total budget)
-python budget.py add-expense BLAHAJ 20 (Add you
+python budget.py add-expense BLAHAJ 20 (Add your expenses)
 python budget.py summarise (Show the data in the terminal)
 python budget.py visualise (Generate a pie chart)
 python budget.py export budget_backup.json (Export data)
